@@ -108,7 +108,8 @@ export const projectsData = [
       { name: "MongoDB", icon: mongodbicon },
       { name: "Figma", icon: figmaicon },
     ],
-    image: OpenrepImg,
+    
+    image: Wordpresssite,
     deploymenturl: "https://demo.hellowebhelp.com/daraz/",
     deploymenticon: FiLink,
     colors: {
